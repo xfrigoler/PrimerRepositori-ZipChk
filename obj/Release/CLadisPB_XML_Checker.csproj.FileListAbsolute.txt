@@ -1,0 +1,8 @@
+C:\Users\xavier.frigoler\OneDrive - Intertek\Documents\Visual Studio 2017\Projects\CLadisPB_XML_Checker\bin\Release\CLadisPB_XML_Checker.exe.config
+C:\Users\xavier.frigoler\OneDrive - Intertek\Documents\Visual Studio 2017\Projects\CLadisPB_XML_Checker\bin\Release\CLadisPB_XML_Checker.exe
+C:\Users\xavier.frigoler\OneDrive - Intertek\Documents\Visual Studio 2017\Projects\CLadisPB_XML_Checker\bin\Release\CLadisPB_XML_Checker.pdb
+C:\Users\xavier.frigoler\OneDrive - Intertek\Documents\Visual Studio 2017\Projects\CLadisPB_XML_Checker\obj\Release\CLadisPB_XML_Checker.csproj.CoreCompileInputs.cache
+C:\Users\xavier.frigoler\OneDrive - Intertek\Documents\Visual Studio 2017\Projects\CLadisPB_XML_Checker\obj\Release\CLadisPB_XML_Checker.exe
+C:\Users\xavier.frigoler\OneDrive - Intertek\Documents\Visual Studio 2017\Projects\CLadisPB_XML_Checker\obj\Release\CLadisPB_XML_Checker.pdb
+C:\Users\xavier.frigoler\OneDrive - Intertek\Documents\Visual Studio 2017\Projects\CLadisPB_XML_Checker\obj\Release\CLadisPB_XML_Checker.csprojAssemblyReference.cache
+C:\Users\xavier.frigoler\OneDrive - Intertek\Documents\Visual Studio 2017\Projects\CLadisPB_XML_Checker\bin\Release\App.config
